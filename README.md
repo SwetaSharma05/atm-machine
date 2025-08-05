@@ -1,2 +1,2 @@
 # atm-machine
-atm machine using c++ oops concepts 
+atm machine using java oops concepts 
